@@ -1,0 +1,49 @@
+#capture2-container{
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   flex-direction: column;
+}
+
+.miniCircle img{
+    width: 244px;
+    height: 244px;
+}
+
+.ask{
+    font-size: 1.25rem;
+    color: #2D5526;
+    margin-top: 62px;
+    margin-bottom: 14px;
+}
+
+#btn-container{
+    margin-top: 18px;
+
+}
+
+.btn{
+    border-radius: 50px;  
+    padding: 10px 20px; /* 내부 여백 조정 */
+    border: 1px solid green;
+    margin-top: 16px;
+    color: #237F14;
+    flex-direction: column;
+
+}
+
+.btn a{
+    text-decoration: none;
+    color: #237F14;
+     
+}
+.btn a:hover{
+    background-color: #237F14;
+    color: white;
+}
+.btn:hover{
+    background-color: #237F14;
+    color: white;
+}
