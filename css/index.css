@@ -1,0 +1,64 @@
+#page-container{
+    display: flex;
+    align-items: center;
+    margin-left: 280px;
+    margin-top: 200px;
+    
+}
+
+.flower{
+    align-items: center;
+    
+    margin-left: 200px;
+}
+.flower img{
+    width: 387px;
+    height: 498px;
+}
+
+#container{
+    flex-direction: column;
+    align-items: center;
+    margin-left: 170px;
+}
+
+.img{
+    width: 35px;
+    height: 35px;
+    margin-left: 100px;
+     
+}
+
+.btn-container{
+    flex-direction: column;
+    
+}
+
+.btn a{
+    text-decoration: none;
+    color: #1E6A12;
+    
+}
+
+
+.btn{
+    border-radius: 50px;  
+    padding: 10px 20px; /* 내부 여백 조정 */
+    border: 1px solid #237F14;
+    margin-top: 16px;
+    color: #237F14;
+    flex-direction: column;
+    text-align: center;
+    width: 220px;
+
+}
+
+
+.btn a:hover{
+    color: #FFFFFF;
+}
+.btn:hover{
+    background-color: #237F14;
+    color: #FFFFFF;
+}
+
