@@ -1,0 +1,91 @@
+#wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  #container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 37px;
+   
+  
+  }
+
+.explain{
+    color: #1E6A12;
+    font-size: 1.25rem;
+    font-weight: 530;
+    padding: 37px;
+    margin-bottom: 26px;
+}
+
+.flower-img{
+    width: 403px;
+    height: 530px;
+}
+
+
+  .finish {
+    width: 74px;
+    height: 40px;
+    border-radius: 50px;
+    border: 1px solid #237F14;
+    padding: 5px;
+    margin: 26px auto 38px; /*top, bottom*/
+  }
+  .finish:hover{
+    background-color: #1E6A12;
+    
+  }
+  .text:hover{
+    color: white;
+  }
+  
+  .text{
+    text-align: center;
+    color: #1E6A12;
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  
+
+  .color{
+    width: 36px;
+    height: 36px;
+    border-radius: 50px;
+    margin-top: 37px;
+  }
+  .color:nth-child(1) {
+    background-color: #FAAA9F;
+  }
+  
+  .color:nth-child(2) {
+    background-color: #F6F8A1;
+  }
+  
+  .color:nth-child(3) {
+    background-color: #FFA0EA;
+  }
+  
+    
+
+   .petal{
+    margin-left: -50px;
+      margin-right: 10px;
+      font-size: 1.25rem;
+      color: #1E6A12;
+       
+   }
+
+   .circle{
+    margin-right: 50px;
+    margin-left: 47px;
+   }
