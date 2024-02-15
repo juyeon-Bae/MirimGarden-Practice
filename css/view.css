@@ -1,0 +1,44 @@
+#main-container{
+    display: flex;
+    margin: 76px 200px 75px 200px;
+    padding: 10px 20px;
+    justify-content: space-between;
+    
+   
+}
+
+.conatiner{
+    align-items: center;
+    flex-direction: column;
+    margin-top: 71px;
+     
+}
+
+.img{
+    width: 180px;
+    height: 180px;
+}
+
+
+.flower-name{
+    border-radius: 7px;  
+    padding: 5px 10px; /* 내부 여백 조정 */
+    border: 1px solid #237F14;
+    height: 30px;
+    width: 100px;
+   
+    font-size: 1.25rem;   
+    color: #237F14;
+    text-align: center;
+    margin-top: 29px;
+    margin-left: 25px;
+}
+
+ 
+ .arrow-img{
+    position: absolute;
+    top: 45%;
+    right: 100px;
+    transform: translateY(-50%);
+  
+ }
