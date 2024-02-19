@@ -42,7 +42,7 @@ body{
   .finish {
     width: 74px;
     height: 40px;
-    border-radius: 50px;
+    border-radius: 20px;
     border: 1px solid #237F14;
     padding: 5px;
     margin: 26px auto 38px; /*top, bottom*/
