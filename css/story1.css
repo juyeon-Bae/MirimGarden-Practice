@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./images/Pretendard-Thin.woff') format('woff');
+   
+}
+
+body{
+  font-family: 'Pretendard';
+}
+
 #box-container{
     position: absolute;
     top: 50%;

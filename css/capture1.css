@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Pretendard';
+    src: url('./images/Pretendard-Thin.woff') format('woff');
+     
+}
+
+body{
+    font-family: 'Pretendard';
+}
+
 *{
     margin: 0;
     padding: 0;

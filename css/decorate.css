@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./images/Pretendard-Thin.woff') format('woff');
+   
+}
+
+body{
+  font-family: 'Pretendard';
+}
+
 #wrap {
     display: flex;
     justify-content: center;
@@ -53,6 +63,7 @@
     justify-content: center;
     align-items: center;
     height: 100%;
+     
   }
   
   
