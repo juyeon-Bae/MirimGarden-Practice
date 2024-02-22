@@ -39,32 +39,30 @@ body{
 }
 
 
-  .finish {
-    width: 74px;
+  #finish {
+    width: 90px;
     height: 40px;
     border-radius: 20px;
     border: 1px solid #237F14;
-    padding: 5px;
+    padding: 25px;
     margin: 26px auto 38px; /*top, bottom*/
-  }
-  .finish:hover{
-    background-color: #1E6A12;
-    
-  }
-  .text:hover{
-    color: white;
-  }
-  
-  .text{
-    text-align: center;
-    color: #1E6A12;
-    font-size: 1.25rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+    background-color: white;
+
      
   }
+#finish-text{
+  display: flex;
+  font-size: 20px;
+  display: inline-block;
+  
+}
+
+  #finish:hover{
+    background-color: #1E6A12;
+    color: white;
+    
+  }
+  
   
   
 
