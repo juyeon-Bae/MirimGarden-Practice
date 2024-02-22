@@ -36,4 +36,5 @@ body{
     margin-top: 8px;
     font-size: 1.25rem;
     color: #2D5526;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
 }
